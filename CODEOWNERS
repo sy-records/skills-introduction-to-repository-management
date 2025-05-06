@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @sy-records
+/src/backend/database.py      @sy-records
+/src/backend/routers/auth.py  @sy-records
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @sy-records
